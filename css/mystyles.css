@@ -73,3 +73,7 @@ address{
 .affix {
     top: 100px;
 }
+
+.modal-lg {
+width: 720px;
+}
